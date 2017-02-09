@@ -1,5 +1,5 @@
 {
-  "rules": {
+  "rules": { 
     "at-rule-name-case": "lower",
     "at-rule-name-space-after": "always",
     "at-rule-semicolon-newline-after": "always",
