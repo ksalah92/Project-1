@@ -14,3 +14,4 @@
     "tag-self-close": true, // tags like <meta> must self-close: <meta />
     "tag-bans": ["style", "iframe", "br", "hr"] // no on-pages styles (for now), no iframes, breaks, horizontal rules
 }
+ 
